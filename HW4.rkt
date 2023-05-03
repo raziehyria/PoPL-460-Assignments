@@ -2,7 +2,8 @@
 ; Name:            Razie Hyria
 ; Parts Completed: 1, and 2
 ; Date:            3/5/23
-
+ 
+ 
 ;SRC: store-with.rkt
 (define-type-alias Location Number)
 
