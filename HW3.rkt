@@ -6,6 +6,7 @@ Date: 02/20/2023
 
 #lang plait
 
+
 (define-type Value
   (numV [n : Number])
   (boolV [b : Boolean]) ; Provided in class
