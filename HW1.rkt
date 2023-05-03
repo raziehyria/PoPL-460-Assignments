@@ -13,6 +13,7 @@ CMPSC 460 - Homework #1
           [left : Tree]
           [right : Tree]))
 
+
 #|Part 1 — Sum 
 Implement a sum function that takes a tree and returns the sum of the numbers in the 
 tree. 
