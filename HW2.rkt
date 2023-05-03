@@ -5,6 +5,7 @@ Date: 02/06/2023
 |#
 #lang plait
 
+
 (define-type Exp
   (numE [n : Number])
   (idE [s : Symbol])
